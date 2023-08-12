@@ -1,0 +1,6 @@
+1
+Processo #1 - 10Kb
+3
+exec 3
+io 4
+exec 2
