@@ -1,0 +1,25 @@
+5
+Processo #133 – 8Kb
+3
+exec 6
+io 2
+exec 5
+Processo #333 – 9Kb
+5
+exec 4
+io 3
+exec 3
+io 2
+exec 5
+Processo #578 – 2Kb
+2
+exec 7
+io 3
+Processo #1000 – 10Kb
+3
+exec 5
+io 5
+exec 2
+Processo #2000 – 7Kb
+1
+exec 5
